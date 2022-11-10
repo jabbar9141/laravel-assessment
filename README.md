@@ -1,4 +1,5 @@
-Laravel test assignment
+**Laravel test assignment**
+==================
 
 Code pricing module for online wholesale store. 
 
@@ -17,8 +18,17 @@ Since it is a Laravel based assignment please also write migrations.
 You can use a starter kit if you wish to. 
 
 What we need to see is
+--------------------------
 
-1- Migrations for the table structure
-2- How you write code 
-3- Quality of comments 
+* Migrations for the table structure
+* How you write code 
+* Quality of comments 
+
+Instructions
+===============================
+* Laravel Version 9 
+* Create Migrations
+* Fork this repo 
+* Push code in your forked repo
+
 
