@@ -7,11 +7,15 @@ Every product has its own base price.
 
 While every client can have special price for each product if set by admin
 
-Every client will get to see the base price if his/her for that product is not being set up.
+Every client (not admin user) will get to see the base price if his/her for that product is not being set up.
+
+Therefore, each product can have different price for EVERY client. 
 
 In case a special price is assigned for that client he / she will see a special price. 
 
 You need to code a module where the admin can set up a special price for multiple products for each client.
+
+Flow will be list of client -> set prices -> that will open list of products and prices can be set there. 
 
 Since it is a Laravel based assignment please also write migrations. 
 
