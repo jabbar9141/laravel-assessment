@@ -34,5 +34,8 @@ Instructions
 * Create Migrations
 * Fork this repo 
 * Push code in your forked repo
+* Inform us when done, we will review the code and get back to you. 
 
+
+All the best
 
